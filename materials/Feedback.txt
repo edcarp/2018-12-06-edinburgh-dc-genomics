@@ -1,0 +1,197 @@
+GENOMICS
+
+SECTION 1
+
+PRO
+.The online access to resources was really useful. Especially to follow the session, work through exercises and using group chat space
+.The best thingh about this class is that you can teach us hand by hand instead of just talking. For us who don't know anything about stats program this is really useful.
+.Good that pointed out what are not acceptable in the datasheet and what is good practice
+.It is useful to know how to access the NCBI database. Very good the basic good practices in Genomics Data managment
+. Workflow before and after NGS is extremely useful
+. Very interesting and interactive
+.Goes through the process chronologically including sending data for sequencing. This info is otherwise difficut to come by if your collegues aren't familiar with the process
+.Nice overview of where the data come from
+.Enjoyed the practical bit of anni SRA RIMS. Would like to see a full workflow 
+. Great pace. Friendly and clear
+. Exercises variable to see format and understand columns
+. Awerness of messy data is important. Maybe suppliment this with visual examples of strange ways coputers can attempt to read poor formats.
+. Great Venue good lecturing. starting from basic, good scope 
+. I liked the interaction between attendees and lecturers. Lot of discussion
+. I like that it started from the basic. Instructors are very knowledgeable on their topics. Like the postit use
+. Useful information on how to keep data, how to input data, and how to interpret tables with raw date
+. Easy to follow and understand
+. The lecture notes are very clear and well presented
+. It is useful to talk about the method on data storage and good to know how to get the original data
+. The online materials are very detailed and good for self learning
+. Overview about preparing dataset
+. Really useful to know background of some of this stuff
+. Nice step by step examples. Learning by doing is very nice approach
+. I like that the course is suitable for beginners 
+. Very informative meeting understandable to unexperienced users
+. Very useful on data storage
+. I really liked that they started from basic things 
+.Venue+ format. Start form basic info
+. Website very useful. session interactive easy to follow
+. How to access and understand public datasets. Very helpful
+. Liked to gain some insight into how to organise spreadsheets. I am currently analysing someone else data and it is sometimes hard to tell what things are
+. I like the mixed teaching/ demostrating format. Very interactive
+. Very accessible and great resoruces provided
+
+
+CONTRO AND SUGGESTIONS
+
+.A little bit too slow
+.nothing
+. More exercises, maybe a whle cleaning process
+.Not clear the software name
+. More introduction about what the items in SRA means as not everyone is experienced in RNA seq data
+. Getting the schedule ahed 
+. Room is not visual friendly
+.Sometimes hard to follow
+. Give some pre-reading to less experienced attendees to enable speed up class
+.Less time on data tideness since it is pretty obvious
+. Bring the coffee machine over next time
+. Please show workflow diagrams so the topic is clear
+. Not sure about application of SRA files
+. A bit slow sometimes
+. Improve time managment. Too many topic to cover in the time given
+. Data table stuff too basic. Alternatives to excel
+. Want to learn more about R
+. Background on genomics terms could be useful
+. Send "golden papers" before the session
+. Did not like the talk with your neighbour for 5 minutes it was not very useful
+. more time on data organising in excel
+. More info on how to search data in SRA
+. More about technical terms. More helpers needed
+. Not enough coffee. Need a glossary
+. Shorter time for group discussion
+. Too slow-paced. Expected more complexity 
+
+SECTION 2 : UNIX
+
+PRO
+. Good pace. liked the specific example and exercises
+. very engaging and clear
+. You do your best for us to understand
+. Maybe just a little too fast
+.Helper very responsive
+. Really useful and well worked through the program
+. Good pace going over the shell
+. Very good interactive session
+.Still optimistic
+.Thanks for the overview of Unix commands
+. the coffee
+.Really useful and easy to follow online and the use of exercises
+. More practical than morning I like it
+. Very interactive
+.Very clear explanation of coding
+. The speed at which the course covers bash commands is correct for a beginner
+. Pretty useful to lern shell
+. Really helpful explanations and thorough coverage of the course content
+. Presenter very clear
+. Very interesting
+.very good practising
+.Step by step exercises
+. Exellent detailed discussion of the many commands of shell
+. Enjoyed the practical part on Unix
+
+CONTRO AND SUGGESTIONS
+
+.Need handout of commands
+.Provide the shortcut beforehand if someone get lost
+. Too fast sometimes
+. Use more the website to navigate
+. Need glossary
+. Adjust the timetable for the slower than expected pace
+. Quite fast got lost 
+. If you get lost is impossible to catch up
+. Too simplistic. Could include more complicated commands and regular expressions
+. More exercises
+. Too much to take in, less packed schedule
+. A little slow paced
+. Some command really not clear (1 or l)
+. Need to be faster
+
+SECTION 3 : 
+
+PRO
+. good example
+. Very useful on data analysis. Very helpful advisers
+.Very informative
+. The only good thing was the presence of a lot of helpers
+. Good interactive session. Good support from helpers
+. Like learning about programming
+. Well structured
+. Much better paced today
+. Glad to have the big picture of pipelines
+. Very good introduction to genomics analysis
+. Covered lot of very useful tools
+. Very excellent intro. Very useful
+. good there are examples to work through. Goood explanations
+. Everyone very helpful
+. The online tools and resources are great. Topics are exactly as hoped
+. Until very last section very clear
+. Interesting on data analysis
+
+
+CONTRO AND SUGGESTIONS
+. How to define cutoff quality criteria? and general rules
+.Why don't we uuse MobaX term instead of putty
+. A little fast at times. Explain better functions
+. Did not learn much. I think it would be better to explain everything in more detail so we would understand what we are actually doing
+. Need faster paced
+. Need more time to leads student through the steps
+. Shell workshop better off on its own. Need better paced
+. Too much info to digest in a short period of time
+. Lots of info covered but sometimes rushed and hard to follow. Maybe splitting in two courses
+. Time managment. It would avoid going too fast somewhere 
+. lunch was not healthy or tasting
+. Disappointed to spend so much time on basic generated data info yesterday and to have to rush today
+. Bit too fast at the end. Maybe something on alternate tools?
+. lack of organisation need to follow more schedule
+. Could it have been faster yesterday and giving more spaces to today topics
+
+
+SECTION 4 : 
+
+PRO
+.Good the R section
+.Very patient, adaptable and responsive demonstrators
+. Very good Graphs
+. Knowledgable instructors. Good balance of topics
+. Very helpful demonstrations
+. Big thanks to all the lectures and helpers for the free workshop 
+. Increadible helpful. I will definitely attend an other one if organised
+. Thank you
+. Get a very nice plot
+. Thanks for the effort despite the networks problems
+. Very helpful helpers
+.Helpers very supportive, quickly respond to queries. Very good interactive sessions
+. Really really useful expecially plots
+. Learning about how to plot data very useful
+. Thank you
+. Very interactive sessiosn and activities, very well intructed
+. Thanks for this class would have want more on ggplot
+.Thank you so much
+. Instructors and helpers did their best with technical problems. I really learned
+
+CONTRO AND SUGGESTIONS
+. Devote more timne to intro R and what it can do
+. Need more time on mapping to genome
+. Maybe label fasta files with shorter names cause it will make it easier to identify the file on the screen
+.Need to explain better some terms such as UCF
+. R shall be a whole separate workshop
+. Internet was not working. Too fast a bits
+. Too fast, difficult to catch up
+. Networks down so I could not follow
+. Need 3 days to be properly run not only 2
+. Very difficult to follow instructions 
+. Tell chinese students to change their user name in English before installing R Studio
+. Need handout of R studio lesson
+. Too quick
+. Network issues made some activities difficult
+. Difficult to follow without internet
+. It would have been easier to understand if we had finished the earlier analyses
+. Need more time for the 2nd day activities and less for the 1st
+. It can be subdivided in 2 workshops (Shell and R). Time managment was a problem
+. From retroprespective the session of yesterday morning could have been shorter and give more time to Shell and R
